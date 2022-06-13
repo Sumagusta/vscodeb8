@@ -90,7 +90,8 @@ function filterJs(){
     {name: "Shark", habitat: "Ocean"},
     {name: "Whale", habitat: "Ocean"},
     {name: "Lion", habitat: "Savanna"},
-    {name: "Monkey", habitat: "Jungle"}
+    {name: "Monkey", habitat: "Jungle"},
+    {name: "Snake", habitat: "Jungle"}
   ];
 
   var aquaticCreatures =  creatures.filter(function(creature) {
